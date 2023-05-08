@@ -1,18 +1,35 @@
-<mxfile host="app.diagrams.net" modified="2023-05-08T13:01:30.091Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/112.0" etag="0K7KNgC52Z-DcHsdjxmc" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-08T13:04:47.908Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/112.0" etag="VVN-jF_G3r7Wf_dqPuZ4" version="21.2.9" type="github">
   <diagram name="Page-1" id="SgEB4pJWIfo6ihUfRe7x">
     <mxGraphModel dx="1434" dy="822" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="g-aPDIkqEKjfETR1Gtb0-1" value="" style="rounded=1;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="-50" y="710" width="300" height="60" as="geometry" />
+          <mxGeometry x="-60" y="895" width="300" height="60" as="geometry" />
         </mxCell>
         <mxCell id="g-aPDIkqEKjfETR1Gtb0-2" value="" style="rounded=1;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="85" y="705" width="290" height="60" as="geometry" />
+          <mxGeometry x="75" y="890" width="290" height="60" as="geometry" />
         </mxCell>
         <mxCell id="g-aPDIkqEKjfETR1Gtb0-3" value="" style="rounded=1;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="210" y="705" width="290" height="60" as="geometry" />
+          <mxGeometry x="200" y="890" width="290" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="g-aPDIkqEKjfETR1Gtb0-4" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 23px;&quot;&gt;Tunnels Maps&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="10" y="590" width="700" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="g-aPDIkqEKjfETR1Gtb0-5" value="Ops Station" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="45" y="690" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g-aPDIkqEKjfETR1Gtb0-7" value="21&lt;br&gt;22&lt;br&gt;80" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="116" y="705" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="g-aPDIkqEKjfETR1Gtb0-8" value="10.50.22.58" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="660" width="60" height="30" as="geometry" />
+        </mxCell>
+        <UserObject label="192.168.65.20/27" link="192.168.65.20/27" id="g-aPDIkqEKjfETR1Gtb0-9">
+          <mxCell style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="40" y="750" width="130" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
